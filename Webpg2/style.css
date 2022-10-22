@@ -18,7 +18,11 @@ border-radius: 10px;
 }
 
 #colNavbar a:hover{
+<<<<<<< HEAD
     color:rgb(88, 173, 45);
+=======
+    color:rgb(255, 255, 255);
+>>>>>>> ad7bd5e50fdd81887abd56c6efdd00a539ccd623
 }
 .navbar-header a{
     font-size:25px;
