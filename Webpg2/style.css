@@ -1,20 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cinzel&family=Crimson+Text:ital@1&family=DynaPuff:wdth@96.1;100&family=Indie+Flower&family=Satisfy&family=Source+Serif+Pro:ital,wght@1,300&family=Square+Peg&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cinzel&family=Crimson+Text:ital@1&family=DynaPuff:wdth@96.1;100&family=Indie+Flower&family=Josefin+Sans:wght@300&family=Rubik:wght@300&family=Satisfy&family=Shadows+Into+Light&family=Source+Serif+Pro:ital,wght@1,300&family=Square+Peg&display=swap');
 
 #navbar{
 background-color: black;
 overflow: hidden;
-font-family: 'Times New Roman', Times, sans-serif;
+font-family: 'Josefin Sans', sans-serif;
 margin: 5px;
 padding: 20px 10px 10px 10px;
 border-radius: 10px;
+}
+#brand{
+    color:rgb(88, 173, 45);
 
 }
 #colNavbar a{
-    color: rgb(88, 173, 45);
+    color: whitesmoke;
     font-size: 18px;
+}
+
+#colNavbar a:hover{
+    color:rgb(88, 173, 45);
 }
 .navbar-header a{
     font-size:25px;
     color: rgb(88, 173, 45);
     padding: 20px 20px 10px 10px;
+}
+#carousel-caption{
+    text-align: center;
 }
